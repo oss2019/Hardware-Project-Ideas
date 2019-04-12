@@ -21,7 +21,7 @@ alt="EPFL Project using KUKA Robot" width="640" height="480" border="10" /></a>
 ---
 
 ## Project 2
-## Have group of robots (drones) to explore a region in co-ordinated manner for Simultaneous Localization and Mappin (SLAM) implementation.
+## Have group of robots (drones) to explore a region in co-ordinated manner for Simultaneous Localization and Mapping (SLAM) implementation.
 
 A couple of drones would fly from designated starting points and fly around in a seemingly random manner while covering the whole space.
 They will avoid all the obstacles they encounter all the while capturing local images helping build a map of their surroundings.
