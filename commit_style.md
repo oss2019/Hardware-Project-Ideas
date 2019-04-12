@@ -9,7 +9,7 @@ A commit message consists of 3 parts:
 
 Example:
 ```
-setup.py: Change filename Setup --> setup
+setup.py: Change Setup --> setup in filename
 
 The file name was misleading.
 
@@ -19,7 +19,7 @@ Closes https://github.com/oss2019/information-security/issues/5861
 Shortlog
 Example:
 ```
-Change filename Setup --> setup
+Change Setup --> setup in filename
 ```
 - Maximum of 50 characters.(Keeping subject lines at this length ensures that they are readable, and explains the change in a concise way.)
 - Should describe the change - the action being done in the commit.
